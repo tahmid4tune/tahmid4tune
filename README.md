@@ -18,7 +18,7 @@ I am an enthusiastic person when it comes to new technologies in the field of so
 alt="Tahmid's linkedin profile" width="20" height="20" border="2" /></a>
 <a href="https://stackoverflow.com/users/2384960/tahmid-ali" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" 
 alt="Tahmid's stackoverflow profile" width="20" height="20" border="2" /></a>
-<a href="https://www.facebook.com/tahmid.nips" target="_blank"><img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeEdxP3pQ6C8njn6OdtTP-d0aBWfmC2eGbdoFZ-YLZ4Zt_WrRzLdUplaAAjUQyMXQ02IupWCrvRqhVMorlKadZ_4" 
+<a href="https://www.facebook.com/tahmid.nips" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" 
 alt="Tahmid's facebook profile" width="20" height="20" border="2" /></a>
 
 - My github handle at Venturas-ltd:

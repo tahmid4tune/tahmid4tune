@@ -22,5 +22,5 @@ alt="Tahmid's stackoverflow profile" width="20" height="20" border="2" /></a>
 alt="Tahmid's facebook profile" width="20" height="20" border="2" /></a>
 
 - My github handle at Venturas-ltd:
-<a href="https://github.com/tahmid-venturas" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" 
+<a href="https://github.com/tahmid-venturas" target="_blank"><img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" 
 alt="Tahmid's official github profile" width="20" height="20" border="2" /></a>

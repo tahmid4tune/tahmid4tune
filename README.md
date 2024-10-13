@@ -1,11 +1,11 @@
 ### Hi there 👋,
 Thanks for showing up here. It means a lot to me because you are interested in my software development work and I love/respect that about you. 
 
-I am an enthusiastic person when it comes to new technologies in the field of software development. I am currently working at [Venturas Ltd.](https://www.venturas-bd.com/) as a Senior Fullstack Developer.
+I am an enthusiastic person when it comes to new technologies in the field of software development. I am currently working at [Brac IT Services Ltd.](https://www.bracits.com/) as a Senior Fullstack Developer.
 
 - 🔭 I’m currently working with:
 
-    NestJS, NextJS (ReactJS), Typescript, TypeORM, MongoDB, MySQL, Docker, Web crawling
+    NestJS, NextJS (ReactJS), Typescript, KnexJS, TypeORM, MongoDB, MySQL, MSSQL, Docker, Web crawling
 - 🔭 I have worked with:
 
     NuxtJS (VueJS), Java, PLM systems, Technia Value Components (TVC), Matrix Query Language, Toolkit Command Language
